@@ -1,1 +1,2 @@
 SimpleFileContent
+Addition of code in the working copy
