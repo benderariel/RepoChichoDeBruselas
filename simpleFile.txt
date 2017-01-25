@@ -1,2 +1,3 @@
 SimpleFileContent
 Addition of code in the working copy
+Addition of code for a second commit
